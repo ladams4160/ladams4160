@@ -1,6 +1,6 @@
 
-#Leonie Adams
-##course Writer and Presenter
+# Leonie Adams
+## course Writer and Presenter
 
 <!--
 **ladams4160/ladams4160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
