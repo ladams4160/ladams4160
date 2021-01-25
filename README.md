@@ -5,6 +5,9 @@
 ### My Personal site
 [GitHub-LADA4160](https://github.com/ladams4160)
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 <!--
 **ladams4160/ladams4160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Your readme should include:
-- a large heading
-- a link to your github profile
+- 
 - an image from google images
 - a blockquote
 
