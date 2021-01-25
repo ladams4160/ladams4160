@@ -2,8 +2,8 @@
 # Leonie Adams
 ## course Writer and Presenter
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+### My Pesonal site
+[GitHub](https://github.com/ladams4160)
 
 <!--
 **ladams4160/ladams4160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
